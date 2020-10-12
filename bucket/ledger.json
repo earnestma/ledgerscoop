@@ -16,7 +16,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/gohugoio/hugo/releases/download/v$version/ledger.exe"
+                "url": "https://github.com/FullofQuarks/Windows-Ledger-Binaries/releases/download/v$version/ledger.exe"
             }
         }
     }
