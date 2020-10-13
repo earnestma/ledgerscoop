@@ -16,6 +16,7 @@ scoop install ...
 
 - [ledger](https://www.ledger-cli.org/)
     - Uses these [binaries](https://github.com/FullofQuarks/Windows-Ledger-Binaries) from [FullofQuarks](https://github.com/FullofQuarks/)
+- [ledgerble](https://github.com/sbridges/ledgerble)
 - [hledger](http://hledger.org/)
 
 ## Clone and Add
