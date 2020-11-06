@@ -4,7 +4,7 @@ Ledger and related programs in a Scoop bucket
 
 ![Appveyor Status](https://ci.appveyor.com/api/projects/status/github/earnestma/ledgerscoop)
 
-**Add this bucket**: `scoop bucket add ledgerscoop https://github.com/earnestma/ledgerscoop.git`
+**Add this bucket**: `scoop bucket add ledgerscoop https://git.earnestma.xyz/earnestma/ledgerscoop.git`
 
 ```sh
 scoop update
@@ -22,8 +22,8 @@ scoop install ...
 ## Clone and Add
 
 ```sh
-git clone https://github.com/earnestma/ledgerscoop
-git remote add 'upstream' https://github.com/Ash258/GenericBucket.git
+git clone https://git.earnestma.xyz/earnestma/ledgerscoop.git
+git remote add 'template' https://github.com/Ash258/GenericBucket.git
 ```
 
 PR's very welcome as I am relatively new to Scoop!
